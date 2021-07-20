@@ -2,6 +2,7 @@
 
 참고
 : https://www.youtube.com/watch?v=z8lK69BQ0VE (빵형의 개발도상국) 
+: https://tykimos.github.io/2017/01/27/CNN_Layer_Talk/ (컨볼루션 신경망 레이어 이야기) 
 
 사용한 모델
 : Convolutional Encoder-Decoder (Covolutional Neural Network로 이루어진 Encoder와 Decoder) 
