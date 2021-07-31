@@ -1,7 +1,7 @@
 # FindingLungsInCTData
 
 Project 내용
-: 폐 CT에서 폐의 영역만 분리하는 Segmentation 
+: 폐 CT에서 폐의 영역만 분리하는 Segmentation. 인공지능이 폐결핵, 폐암, 폐렴을 진단하기 위해서는 우선 폐영역을 정확히 분리해낼 필요가 있음. 
 
 참고
 : https://www.youtube.com/watch?v=z8lK69BQ0VE (빵형의 개발도상국)
