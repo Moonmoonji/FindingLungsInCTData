@@ -1,5 +1,8 @@
 # FindingLungsInCTData
 
+Project 내용
+: 폐 CT에서 폐의 영역만 분리하는 Segmentation 
+
 참고
 : https://www.youtube.com/watch?v=z8lK69BQ0VE (빵형의 개발도상국)
 
