@@ -18,3 +18,11 @@ Decoder = 압축된 정보로부터 차원 확장을 통해 원하는 정보로 
 ---
 
 ### Output 예시
+
+![image](https://user-images.githubusercontent.com/87505072/130883793-1b2239e7-5b96-4bf0-b90a-143590564fd5.png)
+
+왼쪽 : 원본 이미지
+
+중간 : 주어진 결과 이미지 
+
+오른쪽 : CNN 결과
